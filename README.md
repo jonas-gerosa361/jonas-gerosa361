@@ -15,10 +15,10 @@ I am working at **Magisdev** as a **PHP Developer**
 
 ### Experience with
 * PHP5 | PHP7+
-* Laravel | Lumen
+* Laravel | Lumen | Slim | CodeIgniter
 * Doctrine | Elloquent | PDO
 * TDD with PHPUnit
-* Systems Architecture
+* System Architecture
 * MVC | DDD
 * Composer
 * HTML5
