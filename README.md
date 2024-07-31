@@ -5,7 +5,7 @@
 
 Passionate about tech and challenges, I have 9+ years in the IT field where in 2020 I started as a web developer after more than 2 years in the infrastructure team.
 
-I am current working at **CI&T** as a **Software Engineer**
+I am current working at **CI&T** as a **Software Architect**
  <br/> :purple_heart: &nbsp; Looking to get involved in web projects.
  <br/> :blush: &nbsp; I can help with web developing tasks.
  <br/> :computer: &nbsp; My stack: PHP, Laravel, Drupal and Javascript. 
